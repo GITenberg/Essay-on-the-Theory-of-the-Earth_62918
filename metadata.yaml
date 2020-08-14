@@ -1,0 +1,27 @@
+_repo: Essay-on-the-Theory-of-the-Earth_62918
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Jameson, Robert
+    birthdate: 1774
+    deathdate: 1854
+    gutenberg_agent_id: '41536'
+    url: http://www.gutenberg.org/2009/agents/41536
+creator:
+  author:
+    agent_name: Cuvier, Georges
+    gutenberg_agent_id: '52186'
+    url: http://www.gutenberg.org/2009/agents/52186
+description: ''
+gutenberg_issued: '2020-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essay on the Theory of the Earth
+url: http://www.gutenberg.org/ebooks/62918
