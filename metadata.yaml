@@ -1,5 +1,5 @@
 _repo: Essay-on-the-Theory-of-the-Earth_62918
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Jameson, Robert
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1854
     gutenberg_agent_id: '41536'
     url: http://www.gutenberg.org/2009/agents/41536
+covers:
+- cover_type: archival
+  image_path: 62918-h/images/cover-orig.jpg
 creator:
   author:
     agent_name: Cuvier, Georges
     gutenberg_agent_id: '52186'
     url: http://www.gutenberg.org/2009/agents/52186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62918#Essay-on-the-Theory-of-the-Earth
 gutenberg_issued: '2020-08-12'
 gutenberg_type: Text
 identifiers:
